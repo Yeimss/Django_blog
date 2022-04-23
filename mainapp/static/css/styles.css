@@ -239,3 +239,11 @@ footer{
     width: 120px;
     text-align: center;
 }
+.date{
+    display: block;
+    color: gray;
+    margin: 10px 0px;  
+}
+.content{
+    line-height: 25px;
+}
